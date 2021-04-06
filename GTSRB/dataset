@@ -1,0 +1,7 @@
+In this project, the traffic signs classification model wad build and trained by German Traffic Sign dataset using Tensorflow 2.
+The dataset can be downloaded here: https://drive.google.com/drive/folders/1JJlTjA74C-zBuCIXddpxXPDWg6ik_QbG?usp=sharing
+
+It contains three pickle (.p) files:
+train.p: The training set.
+test.p: The testing set.
+valid.p: The validation set.
